@@ -11,4 +11,3 @@ function onButtonCLick(event) {
   body.style.backgroundColor = getRandomHexColor();
   span.textContent = body.style.backgroundColor;
 }
-console.log(buttonCLickHandler);
